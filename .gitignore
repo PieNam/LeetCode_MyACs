@@ -1,0 +1,6 @@
+Leetcode/
+DerivedData/
+
+*.xcodeproj
+
+.DS_Store
